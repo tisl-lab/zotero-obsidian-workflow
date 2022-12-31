@@ -1,0 +1,37 @@
+:root { --default-font: 'Avenir Next', serif; }
+
+.callout[data-callout="contribution"] {
+    --callout-color: 255, 212, 0;
+    --callout-icon: list;
+}
+
+.callout[data-callout="literature"] {
+    --callout-color: 95, 178, 54;
+    --callout-icon: book-open;
+}
+
+.callout[data-callout="motivation"] {
+    --callout-color: 162, 138, 229;
+    --callout-icon: coffee;
+}
+
+.callout[data-callout="result"] {
+    --callout-color: 46, 168, 229;
+    --callout-icon: layers;
+}
+
+.callout[data-callout="limitation"] {
+    --callout-color: 255, 102, 102;
+    --callout-icon: mountain;
+}
+
+.callout[data-callout="note"] {
+    --callout-color: 255, 102, 204;
+    --callout-icon: sticky-note;
+}
+
+.callout[data-callout="inspiration"] {
+    --callout-color: 255, 133, 51;
+    --callout-icon: lightbulb;
+}
+
