@@ -12,7 +12,7 @@ This workflow can allow you to import your Zotero annotation into Obsidian to fa
 - Read your paper in Zotero
 - Leverage Zotero's colour system to define your note-taking strategy
 - Here is the strategy I use for the current workflow (you can adapt the template to your own need!):
-    - I use all 5 colours for highlighting:
+    - I use all 5 colors for highlighting:
         - Yellow is used for the contributions of the paper
         - Blue is used for the results of the study
         - Purple serves two purposes:
