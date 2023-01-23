@@ -10,7 +10,7 @@ This workflow can allow you to import your Zotero annotation into Obsidian to fa
 
 ### Step 2
 - Read your paper in Zotero
-- Leverage Zotero's colour system to define your note-taking strategy
+- Leverage Zotero color's system to define your note-taking strategy
 - Here is the strategy I use for the current workflow (you can adapt the template to your own need!):
     - I use all 5 colors for highlighting:
         - Yellow is used for the contributions of the paper
@@ -20,7 +20,7 @@ This workflow can allow you to import your Zotero annotation into Obsidian to fa
             - Highlight parts of the paper that are interesting from a writing perspective (e.g., how results are presented). Such highlights are tagged with the "#writing_inspiration" hashtag
         - Green is used for highlighting connected literature I should read
         - Red is used for highlighting limitations and assumptions made in the paper.
-    - Additionally, I take personal notes (no colour rule is applied here). Notes related to the writing/organizational aspect of the paper are also tagged with the "#writing_inspiration" hashtag
+    - Additionally, I take personal notes (no color rule is applied here). Notes related to the writing/organizational aspect of the paper are also tagged with the "#writing_inspiration" hashtag
 
 ### Step 3
 - Once the reading is done, import your annotations into your Obsidian vault
